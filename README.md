@@ -2,7 +2,7 @@
 
 - 🤔 微信公众号: 渗透测试之道  
 
-<img width="450" alt="wx" src="https://raw.githubusercontent.com/yhy0/PicGoImg/master/wx.png">
+<img width="450" alt="wx" src="wx.jpg">
 
 
 ## 📈 Reputation
