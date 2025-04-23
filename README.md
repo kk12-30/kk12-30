@@ -3,7 +3,7 @@
 - 🤔 微信公众号: 渗透测试之道  
 
 <img width="450" alt="wx" src="wx.jpg">
-<img width="450" alt="wx" src="fenchuan.png">
+<img width="200" alt="wx" src="fenchuan.png">
 
 
 
