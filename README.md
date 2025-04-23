@@ -4,7 +4,7 @@
 
 <img width="450" alt="wx" src="wx.jpg">
 
-- 🤔 内部纷传圈子  
+-  内部纷传圈子  
 
 <img width="400" alt="wx" src="fenchuan.png">
 
