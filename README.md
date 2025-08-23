@@ -18,7 +18,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=kk12-30&show_icons=true"/> 
       <br/>
-      <h2 align="left" style="display: inline-block;"> &#x1f92b; Github Visitors   <img align="right" src="https://profile-counter.glitch.me/kk12-30/count.svg" /> </h2> 
+      <h2 align="left" style="display: inline-block;"> &#x1f92b; Github Visitors   ![github统计](https://stats.justsong.cn/api/github?username=kk12-30&theme=dark) </h2> 
     </td>
   </tr>
 </table>
