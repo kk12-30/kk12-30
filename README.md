@@ -18,7 +18,6 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=kk12-30&show_icons=true"/> 
       <br/>
-      <h2 align="left" style="display: inline-block;">  <img src="https://stats.justsong.cn/api/github?username=kk12-30&theme=dark"/>  </h2> 
     </td>
   </tr>
 </table>
