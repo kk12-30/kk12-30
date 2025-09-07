@@ -9,11 +9,6 @@
 https://space.bilibili.com/651871504
 ```
 
--  内部纷传圈子  
-
-<img width="400" alt="wx" src="fenchuan.png">
-
-
 
 ## 📈 Reputation
 
