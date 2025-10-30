@@ -1,14 +1,5 @@
 ### Hi👋,I'm kk1230
 
--  微信公众号: 渗透测试之道  
-
-<img width="450" alt="wx" src="wx.jpg">
-
--  bilibili: 渗透测试之道
-```  
-https://space.bilibili.com/651871504
-```
-
 
 ## 📈 Reputation
 
