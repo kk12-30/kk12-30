@@ -1,6 +1,5 @@
 ### Hi👋,I'm kk1230
-感兴趣的可以加入圈子一起学习
-https://wiki.freebuf.com/front/societyFront?invitation_code=2f3c044d&society_id=369&source_data=2
+QQ:2649566514
 
 ## 📈 Reputation
 
