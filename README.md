@@ -3,8 +3,8 @@
 
 <div align="center">
 <!-- 添加动态数据卡片 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kk12-30&theme=radical" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kk12-30&theme=radical" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kk12-30&theme=radical" width="30%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kk12-30&theme=radical" width="30%" />
 </div>
 
 <!-- 项目展示部分 - 统一标题样式并对齐图标 -->
