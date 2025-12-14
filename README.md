@@ -33,7 +33,6 @@ https://wiki.freebuf.com/front/societyFront?invitation_code=2f3c044d&society_id=
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kk12-30&hide=html"></td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=kk12-30&show_icons=true"/> 
       <br/>
