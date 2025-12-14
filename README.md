@@ -6,15 +6,15 @@ https://wiki.freebuf.com/front/societyFront?invitation_code=2f3c044d&society_id=
 <!-- 项目展示部分 - 统一标题样式并对齐图标 -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  AI Penetration Testing
+  AI + Security
 </h2>
 
 <div align="center">
-  <a href="https://github.com/kk12-30/dream-maze">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  <a href="https://github.com/kk12-30/Scan-X">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=Scan-X&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
-  <a href="https://github.com/kk12-30/doctopus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=doctopus&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  <a href="https://github.com/kk12-30/AITest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=AITest&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
 </div>
 
