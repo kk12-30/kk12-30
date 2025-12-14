@@ -21,7 +21,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=AITest&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
   <a href="https://github.com/kk12-30/RedAgent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=RedAgent&theme=radical&hide_border=true&title_color=FF5F6D" width="50%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=RedAgent&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
   <a href="https://github.com/kk12-30/KaliGPT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=KaliGPT&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
