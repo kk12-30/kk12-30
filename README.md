@@ -1,6 +1,6 @@
 ### Hi👋,I'm kk1230
-QQ:2649566514
-https://wiki.freebuf.com/front/societyFront?invitation_code=2f3c044d&society_id=369&source_data=2
+📨 **QQ联系方式**  
+**账号：** `2649566514`
 
 
 <!-- 项目展示部分 - 统一标题样式并对齐图标 -->
