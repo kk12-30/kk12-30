@@ -2,6 +2,11 @@
 📨 **QQ联系方式**  
 **账号：** `2649566514`
 
+<div align="center">
+<!-- 添加动态数据卡片 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kk12-30&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kk12-30&theme=radical" width="33%" />
+</div>
 
 <!-- 项目展示部分 - 统一标题样式并对齐图标 -->
 <h2 align="center">
@@ -43,11 +48,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kk12-30&theme=radical" width="100%" />
 </div>
 
-<div align="center">
-<!-- 添加动态数据卡片 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kk12-30&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kk12-30&theme=radical" width="33%" />
-</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kk12-30/kk12-30/output/github-contribution-grid-snake-dark.svg">
