@@ -16,6 +16,21 @@ https://wiki.freebuf.com/front/societyFront?invitation_code=2f3c044d&society_id=
   <a href="https://github.com/kk12-30/AITest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=AITest&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
+  <a href="https://github.com/kk12-30/AITest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=AITest&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  </a>
+  <a href="https://github.com/kk12-30/RedAgent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=RedAgent&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  </a>
+  <a href="https://github.com/kk12-30/KaliGPT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=KaliGPT&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  </a>
+  <a href="https://github.com/kk12-30/WuJing-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=WuJing-AI&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  </a>
+  <a href="https://github.com/kk12-30/Python-AutoAgent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=Python-AutoAgent&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  </a>
 </div>
 
 <!-- 添加项目按钮 -->
@@ -31,14 +46,11 @@ https://wiki.freebuf.com/front/societyFront?invitation_code=2f3c044d&society_id=
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kk12-30&theme=radical" width="100%" />
 </div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kk12-30&show_icons=true"/> 
-      <br/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+<!-- 添加动态数据卡片 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kk12-30&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kk12-30&theme=radical" width="33%" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kk12-30/kk12-30/output/github-contribution-grid-snake-dark.svg">
