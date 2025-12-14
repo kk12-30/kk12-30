@@ -16,9 +16,6 @@ https://wiki.freebuf.com/front/societyFront?invitation_code=2f3c044d&society_id=
   <a href="https://github.com/kk12-30/AITest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=AITest&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
-  <a href="https://github.com/kk12-30/AITest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=AITest&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
   <a href="https://github.com/kk12-30/RedAgent">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=RedAgent&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
