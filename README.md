@@ -32,6 +32,9 @@
   <a href="https://github.com/kk12-30/Python-AutoAgent">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=Python-AutoAgent&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
+  <a href="https://github.com/kk12-30/Python-AutoAgent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=AI-PromptBreaker&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  </a>
 </div>
 
 <!-- 添加项目按钮 -->
