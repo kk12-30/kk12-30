@@ -17,6 +17,9 @@
   <a href="https://github.com/kk12-30/Scan-X">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=Scan-X&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
+  <a href="https://github.com/kk12-30/AI-Vanguard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=AI-Vanguard&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  </a>
   <a href="https://github.com/kk12-30/AITest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=AITest&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
@@ -37,9 +40,6 @@
   </a>
   <a href="https://github.com/kk12-30/PenTest-Agent">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=PenTest-Agent&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-  <a href="https://github.com/kk12-30/AI-Vanguard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=AI-Vanguard&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
 </div>
 
