@@ -18,9 +18,8 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/kk12-30?style=for-the-badge&color=212121&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/kk12-30?style=for-the-badge&color=FF5F6D&logo=github&label=Total%20Stars" />
-  <img src="https://img.shields.io/github/last-commit/kk12-30/Scan-X?style=for-the-badge&color=212121&logo=github&label=Active" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kk12-30&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kk12-30&theme=radical" width="45%" />
 </div>
 
 
