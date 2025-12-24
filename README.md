@@ -13,9 +13,6 @@
   <a href="tencent://message/?uin=2649566514&Site=QM&Menu=yes">
     <img src="https://img.shields.io/badge/QQ-2649566514-EB1923?style=for-the-badge&logo=tencent-qq&logoColor=white" height="28">
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-black?style=for-the-badge&logo=gmail&logoColor=white" height="28">
-  </a>
 </p>
 
 ---
