@@ -23,14 +23,6 @@
   <img src="https://img.shields.io/github/last-commit/kk12-30/Scan-X?style=for-the-badge&color=212121&logo=github&label=Active" />
 </div>
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-</div>
 
 <br/>
 
