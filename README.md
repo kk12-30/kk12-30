@@ -5,24 +5,25 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=FF5F6D&center=true&vCenter=true&width=435&lines=AI+Security+Developer;Automated+Penetration+Testing;LLM+Red+Teaming;Building+the+Future+of+SecOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=FF5F6D&center=true&vCenter=true&width=435&height=50&lines=AI+Security+Developer;Automated+Penetration+Testing;LLM+Red+Teaming;Building+the+Future+of+SecOps" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <a href="tencent://message/?uin=2649566514&Site=QM&Menu=yes">
-    <img src="https://img.shields.io/badge/QQ-2649566514-EB1923?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ Contact">
+    <img src="https://img.shields.io/badge/QQ-2649566514-EB1923?style=for-the-badge&logo=tencent-qq&logoColor=white" height="28">
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-black?style=for-the-badge&logo=gmail&logoColor=white" height="28">
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kk12-30&theme=radical" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kk12-30&theme=radical" width="45%" />
+  <img src="https://img.shields.io/github/followers/kk12-30?style=for-the-badge&color=212121&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/kk12-30?style=for-the-badge&color=FF5F6D&logo=github&label=Total%20Stars" />
+  <img src="https://img.shields.io/github/last-commit/kk12-30/Scan-X?style=for-the-badge&color=212121&logo=github&label=Active" />
 </div>
 
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
@@ -43,35 +44,33 @@
 
 <div align="center">
   <a href="https://github.com/kk12-30/Scan-X">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=Scan-X&theme=radical&hide_border=true&title_color=FF5F6D" width="48%" />
+    <img src="https://socialify.git.ci/kk12-30/Scan-X/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="32%" />
   </a>
   <a href="https://github.com/kk12-30/AI-Vanguard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=AI-Vanguard&theme=radical&hide_border=true&title_color=FF5F6D" width="48%" />
+    <img src="https://socialify.git.ci/kk12-30/AI-Vanguard/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="32%" />
   </a>
-  
   <a href="https://github.com/kk12-30/PenTest-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=PenTest-Agent&theme=radical&hide_border=true&title_color=FF5F6D" width="48%" />
-  </a>
-  <a href="https://github.com/kk12-30/AITest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=AITest&theme=radical&hide_border=true&title_color=FF5F6D" width="48%" />
+    <img src="https://socialify.git.ci/kk12-30/PenTest-Agent/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="32%" />
   </a>
 
+  <a href="https://github.com/kk12-30/AITest">
+    <img src="https://socialify.git.ci/kk12-30/AITest/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="32%" />
+  </a>
   <a href="https://github.com/kk12-30/RedAgent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=RedAgent&theme=radical&hide_border=true&title_color=FF5F6D" width="48%" />
+    <img src="https://socialify.git.ci/kk12-30/RedAgent/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="32%" />
   </a>
   <a href="https://github.com/kk12-30/KaliGPT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=KaliGPT&theme=radical&hide_border=true&title_color=FF5F6D" width="48%" />
+    <img src="https://socialify.git.ci/kk12-30/KaliGPT/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="32%" />
   </a>
 
   <a href="https://github.com/kk12-30/WuJing-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=WuJing-AI&theme=radical&hide_border=true&title_color=FF5F6D" width="48%" />
+    <img src="https://socialify.git.ci/kk12-30/WuJing-AI/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="32%" />
   </a>
   <a href="https://github.com/kk12-30/Python-AutoAgent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=Python-AutoAgent&theme=radical&hide_border=true&title_color=FF5F6D" width="48%" />
+    <img src="https://socialify.git.ci/kk12-30/Python-AutoAgent/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="32%" />
   </a>
-  
   <a href="https://github.com/kk12-30/AI-PromptBreaker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kk12-30&repo=AI-PromptBreaker&theme=radical&hide_border=true&title_color=FF5F6D" width="48%" />
+    <img src="https://socialify.git.ci/kk12-30/AI-PromptBreaker/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="32%" />
   </a>
 </div>
 
@@ -81,12 +80,6 @@
   <a href="https://github.com/kk12-30?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Projects-CLICK_HERE-FF5F6D?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kk12-30&theme=radical" width="100%" />
 </div>
 
 <br/>
