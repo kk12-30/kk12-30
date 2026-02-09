@@ -72,6 +72,12 @@
   <a href="https://github.com/kk12-30/LogX">
     <img src="https://socialify.git.ci/kk12-30/LogX/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="32%" />
   </a>
+  <a href="https://github.com/kk12-30/LogX">
+    <img src="https://socialify.git.ci/kk12-30/ViperStrike/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="32%" />
+  </a>
+  <a href="https://github.com/kk12-30/LogX">
+    <img src="https://socialify.git.ci/kk12-30/Flow-X/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="32%" />
+  </a>
 </div>
 
 <br/>
