@@ -78,6 +78,9 @@
   <a href="https://github.com/kk12-30/FlowX">
     <img src="https://socialify.git.ci/kk12-30/FlowX/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="32%" />
   </a>
+  <a href="https://github.com/kk12-30/SwarmX">
+    <img src="https://socialify.git.ci/kk12-30/SwarmX/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="32%" />
+  </a>
 </div>
 
 <br/>
